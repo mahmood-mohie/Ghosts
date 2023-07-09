@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/git@github.com:mahmood-mohie/Ghosts.git/static/css/main.9784f9a1.css",
+    "main.js": "/git@github.com:mahmood-mohie/Ghosts.git/static/js/main.3bf10ec6.js",
+    "static/js/787.60f64557.chunk.js": "/git@github.com:mahmood-mohie/Ghosts.git/static/js/787.60f64557.chunk.js",
+    "index.html": "/git@github.com:mahmood-mohie/Ghosts.git/index.html",
+    "main.9784f9a1.css.map": "/git@github.com:mahmood-mohie/Ghosts.git/static/css/main.9784f9a1.css.map",
+    "main.3bf10ec6.js.map": "/git@github.com:mahmood-mohie/Ghosts.git/static/js/main.3bf10ec6.js.map",
+    "787.60f64557.chunk.js.map": "/git@github.com:mahmood-mohie/Ghosts.git/static/js/787.60f64557.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9784f9a1.css",
+    "static/js/main.3bf10ec6.js"
+  ]
+}

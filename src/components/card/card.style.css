@@ -1,0 +1,32 @@
+.card-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 200px;
+  background-color: #f9a4b8;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px,
+    rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+  border-radius: 20px;
+  padding: 25px;
+  cursor: pointer;
+  -moz-osx-font-smoothing: grayscale;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  transition: transform 0.25s ease-out;
+  filter: none;
+}
+
+.card-container:hover,
+.card-container.active {
+  transform: scale(1.05);
+  filter: grayscale(100%);
+  
+}
+
+.card-container h2 {
+  font-weight: lighter;
+  margin-bottom: 0;
+}
+
+.card-container p {
+  text-transform: lowercase;
+}
